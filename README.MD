@@ -1,3 +1,10 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.1/css/bootstrap.min.css" integrity="sha384-VCmXjywReHh4PwowAiWNagnWcLhlEJLA5buUprzK8rxFgeH0kww/aWY76TfkUoSX" crossorigin="anonymous">
+
 # Dark Money
 ## by Alex de Almeida
 
@@ -31,4 +38,8 @@ I feel it's necessary to include the overall percentages out of the total expend
 
 <img src="https://media.journalism.berkeley.edu/upload/2020/08/159721392573214bc.png">
 
-I thought the project led to some fascinating insights into how these 501(c) organizations have taken advantage of different loopholes in the law to spend millions on influencing political elections. Because their is no concrete way to determine where these funds are being spent, at the moment it's not possible to quantify their effects. I think it shows that moneys involvement in political processes in the United States is an opaque picture at best. 
+I thought the project led to some fascinating insights into how these 501(c) organizations have taken advantage of different loopholes in the law to spend millions on influencing political elections. Because their is no concrete way to determine where these funds are being spent, at the moment it's not possible to quantify their effects. I think it shows that moneys involvement in political processes in the United States is an opaque picture at best.
+
+
+  </body>
+</html>
